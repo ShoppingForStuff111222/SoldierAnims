@@ -1,3 +1,4 @@
+print("KEYFRAMES")
 local keyFrames = {
 {
     Time = 0.066,
