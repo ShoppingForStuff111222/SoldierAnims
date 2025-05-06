@@ -1,5 +1,5 @@
-print("KEYFRAMES")
-local a = {
+
+local keyFrames = {
 {
     Time = 0.066,
     Motors = {
@@ -11,4 +11,5 @@ local a = {
         ["Left Arm"] = {C0 = CFrame.new(-0.999996841, 0.499999613, -6.35782862e-06, 0.0547611713, 0.403289706, -0.9134323, -0.965359032, 0.25511393, 0.0547611713, 0.25511393, 0.878791392, 0.403289706), DesiredAngle = nil},
     }
 }
-return a 
+}
+return keyFrames 
